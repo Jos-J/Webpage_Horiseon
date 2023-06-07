@@ -10,6 +10,7 @@ The title is concise, descriptive.
 this website was for a class assignment. classmates and I shared ideas but the work was completed by me. 
 
 https://jif945.github.io/Webpage_Horiseon/
+
 https://github.com/JIF945/Webpage_Horiseon
 
 
