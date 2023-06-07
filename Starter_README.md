@@ -7,6 +7,9 @@ Alt elements were added to the images, for people that use screen readers.
 after refactor, the elements follow a logical structure independent of styling and positioning,
 Css is condensed for accessibility. 
 The title is concise, descriptive. 
+this website was for a class assignment. classmates and I shared ideas but the work was completed by me. 
 
+https://jif945.github.io/Webpage_Horiseon/
+https://github.com/JIF945/Webpage_Horiseon
 
 
