@@ -1,16 +1,33 @@
-# Webpage_Horiseon
-the code on Webpage_Horiseon was not the cleanest clearest or best it can be. thw website did not meet accessibility standards
-I restructured the computer code without changing or adding to its external behavior and Functionality. 
-Non semantic elements have been replaced with Semantic elements such as
-Header, Nav, section, article, aside, footer. using semantic elements improves functionality and reduces the technical debt if a website.
-Alt elements were added to the images, for people that use screen readers. 
-after refactor, the elements follow a logical structure independent of styling and positioning,
-Css is condensed for accessibility. 
-The title is concise, descriptive. 
-this website was for a class assignment. classmates and I shared ideas but the work was completed by me. 
+# Webpage_ByteBeats
 
-https://jif945.github.io/Webpage_Horiseon/
+ [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/Licenses/MIT)
 
-https://github.com/JIF945/Webpage_Horiseon
+
+## User Story
+    AS A marketing agency
+    I WANT a codebase that follows accessibility standards
+    SO THAT our own site is optimized for search engines
+
+## Acceptance Criteria
+    GIVEN a webpage meets accessibility standards
+    WHEN I view the source code
+    THEN I find semantic HTML elements
+    WHEN I view the structure of the HTML elements
+    THEN I find that the elements follow a logical structure independent of styling and positioning
+    WHEN I view the icon and image elements
+    THEN I find accessible alt attributes
+    WHEN I view the heading attributes
+    THEN they fall in sequential order
+    WHEN I view the title element
+    THEN I find a concise, descriptive title
+    
+
+## GitHub
+
+-   [Live Site](https://jos-j.github.io/Webpage_Horiseon/ "Url")
+
+-   [Repo](https://github.com/Jos-J/Webpage_Horiseon)
+
+
 
 
